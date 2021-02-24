@@ -1,0 +1,4 @@
+baseURL = "http://lovesa-momokoy5.vercel.app"
+languageCode = "en-us"
+title = "Love Sheet Music USA"
+theme = "hugo-theme-minos"
